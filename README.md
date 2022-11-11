@@ -1,16 +1,25 @@
-### Hi there 👋
+Good afternoon. 
 
-<!--
-**Mivescuta/Mivescuta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mivescuta 
 
-Here are some ideas to get you started:
+I am from Ukraine.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm node runner and validator
+
+I’m interested in crypto currencies and metaverse.
+
+I have a good experience as a validator, I will be glad to participate here.  I know several programming languages ​​(C#, C++, Perl, Rust, php). Participated in various projects (aptos, trasformers, terra, evmos, starknet, Gear)
+
+Projects : aptos, trasformers, terra, evmos, starknet, Gear
+
+Roles: aptos - testnet validator, trasformers - testnet validator, terra - mainnet validator, evmos - mainnet validator, starknet - testnet validator, Gear - testnet validator
+
+Benefit : I always participate in stress tests, in voting, in community moderation, thereby helping the team
+
+Projects :
+* https://aptoslabs.com/
+* https://www.tfsc.io/
+* https://www.terra.money/
+* https://evmos.org/
+* https://starknet.io/
+* https://www.gear-tech.io/
